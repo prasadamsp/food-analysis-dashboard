@@ -19,6 +19,25 @@ st.set_page_config(
     layout="wide",
 )
 
+# ── Password gate ─────────────────────────────────────────────────────────────
+def _check_password():
+    pwd = st.secrets.get("APP_PASSWORD", "")
+    if not pwd:
+        return True  # no password set — local dev mode
+    if st.session_state.get("authenticated"):
+        return True
+    st.title("🥗 Food Dashboard")
+    entered = st.text_input("Password", type="password")
+    if st.button("Sign in"):
+        if entered == pwd:
+            st.session_state["authenticated"] = True
+            st.rerun()
+        else:
+            st.error("Incorrect password")
+    st.stop()
+
+_check_password()
+
 DATA_DIR  = Path(__file__).parent / "data"
 ITEMS_CSV    = DATA_DIR / "items.csv"
 RECEIPTS_CSV = DATA_DIR / "receipts.csv"
