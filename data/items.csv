@@ -1,18 +1,18 @@
 receipt_id,date,store,name,price,quantity,receipt_category,category,health_score
-Lidl_20260102,2026-01-02,Lidl,Knorr Feinschm.Blum.,0.79,1,Lidl,Fertiggerichte & Saucen,4
-Lidl_20260102,2026-01-02,Lidl,Knorr Spargelcreme,3.18,2,Lidl,Gemüse,9
-Lidl_20260102,2026-01-02,Lidl,Knotenbeutel,0.02,1,Lidl,Non-Food,0
-Lidl_20260102,2026-01-02,Lidl,Mandeln Honig/Salz,1.99,1,Lidl,Hülsenfrüchte & Nüsse,8
-Lidl_20260102,2026-01-02,Lidl,Oreo Remix Brownie,1.39,1,Lidl,Süßigkeiten & Desserts,2
-Lidl_20260102,2026-01-02,Lidl,Litschi,1.45,1,Lidl,Früchte,9
 Lidl_20260102,2026-01-02,Lidl,Orangen,2.99,0.296 kg,Lidl,Früchte,9
-Lidl_20260102,2026-01-02,Lidl,Knorr Suppen Toscana,1.59,1,Lidl,Fertiggerichte & Saucen,4
+Lidl_20260102,2026-01-02,Lidl,Litschi,1.45,1,Lidl,Früchte,9
+Lidl_20260102,2026-01-02,Lidl,Avocado,2.99,1,Lidl,Früchte,9
 Lidl_20260102,2026-01-02,Lidl,Erdbeeren 250g,4.58,2,Lidl,Früchte,9
 Lidl_20260102,2026-01-02,Lidl,Traub hell 500g,2.49,1,Lidl,Früchte,9
 Lidl_20260102,2026-01-02,Lidl,Zuckermais,2.49,1,Lidl,Gemüse,9
 Lidl_20260102,2026-01-02,Lidl,Zitronen,0.99,1,Lidl,Früchte,9
+Lidl_20260102,2026-01-02,Lidl,Knorr Spargelcreme,3.18,2,Lidl,Gemüse,9
 Lidl_20260102,2026-01-02,Lidl,Bio-Eier OKT,6.78,2,Lidl,Eier,8
-Lidl_20260102,2026-01-02,Lidl,Avocado,2.99,1,Lidl,Früchte,9
+Lidl_20260102,2026-01-02,Lidl,Knorr Suppen Toscana,1.59,1,Lidl,Fertiggerichte & Saucen,4
+Lidl_20260102,2026-01-02,Lidl,Oreo Remix Brownie,1.39,1,Lidl,Süßigkeiten & Desserts,2
+Lidl_20260102,2026-01-02,Lidl,Mandeln Honig/Salz,1.99,1,Lidl,Hülsenfrüchte & Nüsse,8
+Lidl_20260102,2026-01-02,Lidl,Knotenbeutel,0.02,1,Lidl,Non-Food,0
+Lidl_20260102,2026-01-02,Lidl,Knorr Feinschm.Blum.,0.79,1,Lidl,Fertiggerichte & Saucen,4
 Lidl_20260105,2026-01-05,Lidl,Kinderzahngel Erdb.,0.5,1,Lidl,Non-Food,0
 Lidl_20260105,2026-01-05,Lidl,Elmex/Aronal Duopack,6.75,1,Lidl,Non-Food,0
 Lidl_20260106,2026-01-06,Lidl,Schmelzkäse Toast,1.69,1,Lidl,Milchprodukte,6
@@ -22,302 +22,389 @@ Lidl_20260106,2026-01-06,Lidl,Schmelzkäse Allgäuer,1.69,1,Lidl,Milchprodukte,6
 Lidl_20260106,2026-01-06,Lidl,Tomaten Strauch,1.67,0.838 kg,Lidl,Gemüse,9
 Lidl_20260106,2026-01-06,Lidl,Erdbeeren 250g,4.38,2,Lidl,Früchte,9
 Lidl_20260106,2026-01-06,Lidl,Bioland Rote Bete,1.99,1,Lidl,Gemüse,9
-Lidl_20260106,2026-01-06,Lidl,Banane lose,1.17,0.906 kg,Lidl,Früchte,9
 Lidl_20260106,2026-01-06,Lidl,Naturjoghurt Milch 3.8%,1.98,2,Lidl,Milchprodukte,6
+Lidl_20260106,2026-01-06,Lidl,Banane lose,1.17,0.906 kg,Lidl,Früchte,9
+Lidl_20260107,2026-01-07,Lidl,Bauerngurken,2.99,1,Lidl,Gemüse,9
 Lidl_20260107,2026-01-07,Lidl,Apfel rot süß,1.0,0.438 kg,Lidl,Früchte,9
 Lidl_20260107,2026-01-07,Lidl,Bio Mini Möhren 200g,0.99,1,Lidl,Gemüse,9
 Lidl_20260107,2026-01-07,Lidl,Granatapfel,1.19,1,Lidl,Früchte,9
 Lidl_20260107,2026-01-07,Lidl,Bio Baby Spinat,1.29,1,Lidl,Gemüse,9
 Lidl_20260107,2026-01-07,Lidl,Einzehenknoblauch,2.29,1,Lidl,Gemüse,9
-Lidl_20260107,2026-01-07,Lidl,Bauerngurken,2.99,1,Lidl,Gemüse,9
 Lidl_20260108,2026-01-08,Lidl,Softfrüchte Aprikose,1.89,1,Lidl,Früchte,9
 Lidl_20260108,2026-01-08,Lidl,Bio-Eier OKT 10er,3.99,1,Lidl,Eier,8
-Lidl_20260110,2026-01-10,Lidl,Bioland Naturjoghurt,1.79,1,Lidl,Milchprodukte,6
 Lidl_20260110,2026-01-10,Lidl,Biol. Fruchtjoghurt Erdb.,0.59,1,Lidl,Milchprodukte,6
-Lidl_20260110,2026-01-10,Lidl,Holunderbeere Seife,0.65,1,Lidl,Non-Food,0
+Lidl_20260110,2026-01-10,Lidl,Bioland Naturjoghurt,1.79,1,Lidl,Milchprodukte,6
 Lidl_20260110,2026-01-10,Lidl,Nesquik Pudding Choc,2.29,1,Lidl,Süßigkeiten & Desserts,2
+Lidl_20260110,2026-01-10,Lidl,Holunderbeere Seife,0.65,1,Lidl,Non-Food,0
 Lidl_20260110,2026-01-10,Lidl,Pfeffer schwarz,2.39,1,Lidl,Fertiggerichte & Saucen,4
 Lidl_20260113,2026-01-13,Lidl,Möhren Bioland,0.56,0.280 kg,Lidl,Gemüse,9
-Lidl_20260113,2026-01-13,Lidl,Bio Mini Möhren 200g,0.99,1,Lidl,Gemüse,9
 Lidl_20260113,2026-01-13,Lidl,Bioland Naturjoghurt,1.79,1,Lidl,Milchprodukte,6
+Lidl_20260113,2026-01-13,Lidl,Bio Mini Möhren 200g,0.99,1,Lidl,Gemüse,9
 Lidl_20260113,2026-01-13,Lidl,Pistazien ungesalz.,3.49,1,Lidl,Hülsenfrüchte & Nüsse,8
+Lidl_20260115,2026-01-15,Lidl,Banane lose,1.1,0.850 kg,Lidl,Früchte,9
+Lidl_20260115,2026-01-15,Lidl,Zuckermais,2.99,1,Lidl,Gemüse,9
 Lidl_20260115,2026-01-15,Lidl,Kartoffeln Süß,0.56,0.314 kg,Lidl,Gemüse,9
 Lidl_20260115,2026-01-15,Lidl,Bioland Naturjoghurt,3.58,2,Lidl,Milchprodukte,6
 Lidl_20260115,2026-01-15,Lidl,Mineralwasser still,1.35,1,Lidl,Wasser,9
 Lidl_20260115,2026-01-15,Lidl,Mandeln Honig/Salz,1.99,1,Lidl,Hülsenfrüchte & Nüsse,8
-Lidl_20260115,2026-01-15,Lidl,Banane lose,1.1,0.850 kg,Lidl,Früchte,9
-Lidl_20260115,2026-01-15,Lidl,Zuckermais,2.99,1,Lidl,Gemüse,9
+Lidl_20260116,2026-01-16,Lidl,Bio Baby Spinat,1.29,1,Lidl,Gemüse,9
+Lidl_20260116,2026-01-16,Lidl,Heidelbeeren,1.49,1,Lidl,Früchte,9
 Lidl_20260116,2026-01-16,Lidl,Toilettenpapier 3lg.,3.59,1,Lidl,Non-Food,0
 Lidl_20260116,2026-01-16,Lidl,Tomaten Strauch,1.99,0.834 kg,Lidl,Gemüse,9
-Lidl_20260116,2026-01-16,Lidl,Heidelbeeren,1.49,1,Lidl,Früchte,9
 Lidl_20260116,2026-01-16,Lidl,Mandarinen,2.79,1,Lidl,Früchte,9
 Lidl_20260116,2026-01-16,Lidl,Knotenbeutel,0.02,1,Lidl,Non-Food,0
-Lidl_20260116,2026-01-16,Lidl,Bio Baby Spinat,1.29,1,Lidl,Gemüse,9
+HIT_20260121_Receipt 21.01.2026 19_20,2026-01-21,HIT,Trauben rot 500g,2.29,1,OBST & GEMÜSE,Früchte,9
+HIT_20260121_Receipt 21.01.2026 19_20,2026-01-21,HIT,Trinkkokosnuss Stüc,6.98,2,OBST & GEMÜSE,Früchte,9
 Lidl_20260121,2026-01-21,Lidl,Ananas,1.95,1.306 kg,Lidl,Früchte,9
+Lidl_20260121,2026-01-21,Lidl,Zuckermais,2.99,1,Lidl,Gemüse,9
+Lidl_20260121,2026-01-21,Lidl,Romatomaten,1.49,1,Lidl,Gemüse,9
 Lidl_20260121,2026-01-21,Lidl,Bio-Eier OKT 10er,7.98,2,Lidl,Eier,8
 HIT_20260121_Receipt 21.01.2026 19_20,2026-01-21,HIT,Capri-Sun Elfent,10.47,3,Getränke,Zuckerhaltige Getränke,3
-HIT_20260121_Receipt 21.01.2026 19_20,2026-01-21,HIT,Trinkkokosnuss Stüc,6.98,2,OBST & GEMÜSE,Früchte,9
-HIT_20260121_Receipt 21.01.2026 19_20,2026-01-21,HIT,Trauben rot 500g,2.29,1,OBST & GEMÜSE,Früchte,9
-Lidl_20260121,2026-01-21,Lidl,Romatomaten,1.49,1,Lidl,Gemüse,9
-Lidl_20260121,2026-01-21,Lidl,Zuckermais,2.99,1,Lidl,Gemüse,9
-HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Mini-Paprika,1.79,1,OBST & GEMÜSE,Gemüse,9
-HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Erdbeeren 400g,4.99,1,OBST & GEMÜSE,Früchte,9
+HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,"Pfand 0,25",1.75,7,Non-Food,Non-Food,0
+HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,ja! Miwa Still,1.74,1,Getränke,Wasser,9
+HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,HIT Schlaufentra,0.2,1,Non-Food,Non-Food,0
+HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,ja! Hamburger Br,0.99,1,Frühstück,Brot & Getreide,6
+HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Trinkkokosnuss Stüc,10.47,3,OBST & GEMÜSE,Früchte,9
+HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Gourmet Orangen,5.58,2,OBST & GEMÜSE,Früchte,9
 HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Rote Bete,0.35,"0,178 kg",OBST & GEMÜSE,Gemüse,9
 HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Bio Ingwer lose per,0.93,"0,118 kg",OBST & GEMÜSE,Gemüse,9
 HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Knoblauch per KG,1.09,"0,110 kg",OBST & GEMÜSE,Gemüse,9
 HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Koriander,1.11,1,OBST & GEMÜSE,Gemüse,9
 HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Strauchtomaten rot,1.22,"0,490 kg",OBST & GEMÜSE,Gemüse,9
-HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,HIT Schlaufentra,0.2,1,Non-Food,Non-Food,0
 HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Bio Bananen,1.73,"0,964 kg",OBST & GEMÜSE,Früchte,9
+HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Mini-Paprika,1.79,1,OBST & GEMÜSE,Gemüse,9
 HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,"Kart. vfk.2,5kg",1.99,1,OBST & GEMÜSE,Gemüse,9
 HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Granatapfelsaft 250,3.49,1,OBST & GEMÜSE,Gesunde Getränke,7
-HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,"Pfand 0,25",1.75,7,Non-Food,Non-Food,0
-HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Gourmet Orangen,5.58,2,OBST & GEMÜSE,Früchte,9
-HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Trinkkokosnuss Stüc,10.47,3,OBST & GEMÜSE,Früchte,9
-HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,ja! Hamburger Br,0.99,1,Frühstück,Brot & Getreide,6
+HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Erdbeeren 400g,4.99,1,OBST & GEMÜSE,Früchte,9
 HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,Butcher's Brioche B,3.38,2,Frühstück,Brot & Getreide,6
-HIT_20260123_Receipt 23.01.2026 20_13,2026-01-23,HIT,ja! Miwa Still,1.74,1,Getränke,Wasser,9
-HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Granatapfel per Stü,2.49,1,OBST & GEMÜSE,Früchte,9
 HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,REWE Chicken Che,3.99,1,Tiefkühlkost,Fleisch & Geflügel,6
 HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Aln.Rot.BeteSaft,1.29,1,Getränke,Gesunde Getränke,7
-HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Kiwi gold XL,3.18,2,OBST & GEMÜSE,Früchte,9
+HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Mikado,5.07,3,Lebensmittel,Süßigkeiten & Desserts,2
+HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Granatapfel per Stü,2.49,1,OBST & GEMÜSE,Früchte,9
+HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Datteln ohne Steine,2.98,2,OBST & GEMÜSE,Früchte,9
+HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,"Bärenm.Milch 3,8",6.0,6,Lebensmittel,Milchprodukte,6
 HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Heidelbeeren,3.49,1,OBST & GEMÜSE,Früchte,9
 HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Jodsalz Flourid+,0.79,1,Lebensmittel,Fertiggerichte & Saucen,4
-HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,REWE Brauner Roh,1.49,1,Lebensmittel,Fertiggerichte & Saucen,4
-HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Datteln ohne Steine,2.98,2,OBST & GEMÜSE,Früchte,9
-HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Maryland Snack Nüss,3.89,1,Lebensmittel,Snacks & Chips,3
-HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,REWE Beste Wahl Mik,3.87,3,Lebensmittel,Süßigkeiten & Desserts,2
-HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,"Bärenm.Milch 3,8",6.0,6,Lebensmittel,Milchprodukte,6
+HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Kiwi gold XL,3.18,2,OBST & GEMÜSE,Früchte,9
 HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Soft-Pflaumen en,3.49,1,Lebensmittel,Hülsenfrüchte & Nüsse,8
-HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Maryland Student,4.99,1,Lebensmittel,Snacks & Chips,3
+HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,REWE Beste Wahl Mik,3.87,3,Lebensmittel,Süßigkeiten & Desserts,2
+HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Maryland Snack Nüss,3.89,1,Lebensmittel,Snacks & Chips,3
 HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Nüsse Salz&Pfeff,3.89,1,Lebensmittel,Hülsenfrüchte & Nüsse,8
-HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Mikado,5.07,3,Lebensmittel,Süßigkeiten & Desserts,2
+HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,Maryland Student,4.99,1,Lebensmittel,Snacks & Chips,3
+HIT_20260124_Receipt 24.01.2026 12_19,2026-01-24,HIT,REWE Brauner Roh,1.49,1,Lebensmittel,Fertiggerichte & Saucen,4
 Lidl_20260126,2026-01-26,Lidl,Mango,1.39,1,Lidl,Früchte,9
 Lidl_20260126,2026-01-26,Lidl,Cashewkerne 200g,2.99,1,Lidl,Hülsenfrüchte & Nüsse,8
 Lidl_20260126,2026-01-26,Lidl,Snack-Mandeln,3.49,1,Lidl,Hülsenfrüchte & Nüsse,8
-Lidl_20260128,2026-01-28,Lidl,Fr.Eier a. Bodenhal.,2.49,1,Lidl,Eier,8
-Lidl_20260128,2026-01-28,Lidl,Heinz Ketchup,2.79,1,Lidl,Fertiggerichte & Saucen,4
-Lidl_20260128,2026-01-28,Lidl,Vegane Mayonnaise,1.69,1,Lidl,Fertiggerichte & Saucen,4
-Lidl_20260128,2026-01-28,Lidl,Rohrreiniger-Gel,1.25,1,Lidl,Non-Food,0
-Lidl_20260128,2026-01-28,Lidl,All-in 1 MGR Tabs,5.89,1,Lidl,Non-Food,0
 Lidl_20260128,2026-01-28,Lidl,Müllbeutel,0.99,1,Lidl,Non-Food,0
-Lidl_20260128,2026-01-28,Lidl,Sonnenblumenöl raff.,4.38,2,Lidl,Fertiggerichte & Saucen,4
+Lidl_20260128,2026-01-28,Lidl,All-in 1 MGR Tabs,5.89,1,Lidl,Non-Food,0
+Lidl_20260128,2026-01-28,Lidl,Rohrreiniger-Gel,1.25,1,Lidl,Non-Food,0
+Lidl_20260128,2026-01-28,Lidl,Heinz Ketchup,2.79,1,Lidl,Fertiggerichte & Saucen,4
+Lidl_20260128,2026-01-28,Lidl,Fr.Eier a. Bodenhal.,2.49,1,Lidl,Eier,8
+Lidl_20260128,2026-01-28,Lidl,Vegane Mayonnaise,1.69,1,Lidl,Fertiggerichte & Saucen,4
 Lidl_20260128,2026-01-28,Lidl,Rein.tücher Meeresfr.,1.49,1,Lidl,Non-Food,0
-Lidl_20260129,2026-01-29,Lidl,Bio Blütenhonig flüssig,2.65,1,Lidl,Fertiggerichte & Saucen,4
-Lidl_20260129,2026-01-29,Lidl,Berliner NussN,0.99,1,Lidl,Süßigkeiten & Desserts,2
+Lidl_20260128,2026-01-28,Lidl,Sonnenblumenöl raff.,4.38,2,Lidl,Fertiggerichte & Saucen,4
 Lidl_20260129,2026-01-29,Lidl,Croissant Butt.,0.98,2,Lidl,Süßigkeiten & Desserts,2
-Lidl_20260130,2026-01-30,Lidl,Mineralwasser still,1.74,6,Lidl,Wasser,9
-Lidl_20260130,2026-01-30,Lidl,Eier 18er Freilandh.,4.19,1,Lidl,Eier,8
-Lidl_20260130,2026-01-30,Lidl,Naturjoghurt mild,0.89,1,Lidl,Milchprodukte,6
-Lidl_20260130,2026-01-30,Lidl,Bioland Naturjoghurt,1.79,1,Lidl,Milchprodukte,6
-Lidl_20260130,2026-01-30,Lidl,Tomaten Strauch,2.8,1.126 kg,Lidl,Gemüse,9
+Lidl_20260129,2026-01-29,Lidl,Berliner NussN,0.99,1,Lidl,Süßigkeiten & Desserts,2
+Lidl_20260129,2026-01-29,Lidl,Bio Blütenhonig flüssig,2.65,1,Lidl,Fertiggerichte & Saucen,4
 Lidl_20260130,2026-01-30,Lidl,Banane lose,1.79,1.384 kg,Lidl,Früchte,9
+Lidl_20260130,2026-01-30,Lidl,Tomaten Strauch,2.8,1.126 kg,Lidl,Gemüse,9
+Lidl_20260130,2026-01-30,Lidl,Bioland Naturjoghurt,1.79,1,Lidl,Milchprodukte,6
+Lidl_20260130,2026-01-30,Lidl,Naturjoghurt mild,0.89,1,Lidl,Milchprodukte,6
+Lidl_20260130,2026-01-30,Lidl,Eier 18er Freilandh.,4.19,1,Lidl,Eier,8
+Lidl_20260130,2026-01-30,Lidl,Mineralwasser still,1.74,6,Lidl,Wasser,9
+Lidl_20260205_1,2026-02-05,Lidl,Donut Pinky,0.59,1,Lidl,Süßigkeiten & Desserts,2
+Lidl_20260205_1,2026-02-05,Lidl,Croissant Butt.,0.98,2,Lidl,Süßigkeiten & Desserts,2
 Lidl_20260205_1,2026-02-05,Lidl,Wasser still,1.74,6,Lidl,Wasser,9
-Lidl_20260205,2026-02-05,Lidl,Bioland Naturjoghurt,3.58,2,Lidl,Milchprodukte,6
+Lidl_20260205,2026-02-05,Lidl,Bio-Eier OKT 10er,7.98,2,Lidl,Eier,8
 Lidl_20260205,2026-02-05,Lidl,Mozzarella gerieben,1.79,1,Lidl,Milchprodukte,6
-Lidl_20260205,2026-02-05,Lidl,Zwiebeln rot,1.58,2,Lidl,Gemüse,9
 Lidl_20260205,2026-02-05,Lidl,Broccoli,1.39,1,Lidl,Gemüse,9
 Lidl_20260205,2026-02-05,Lidl,Kartoffeln Süß,1.25,0.696 kg,Lidl,Gemüse,9
-Lidl_20260205_1,2026-02-05,Lidl,Donut Pinky,0.59,1,Lidl,Süßigkeiten & Desserts,2
-Lidl_20260205,2026-02-05,Lidl,Banane lose,0.79,0.612 kg,Lidl,Früchte,9
-Lidl_20260205_1,2026-02-05,Lidl,Croissant Butt.,0.98,2,Lidl,Süßigkeiten & Desserts,2
 Lidl_20260205,2026-02-05,Lidl,Ingwer,1.39,0.284 kg,Lidl,Gemüse,9
-Lidl_20260205,2026-02-05,Lidl,Bio-Eier OKT 10er,7.98,2,Lidl,Eier,8
-Lidl_20260207,2026-02-07,Lidl,Weizen-Mix Grapefru.,0.49,1,Lidl,Zuckerhaltige Getränke,3
-Lidl_20260207,2026-02-07,Lidl,Hähnchenbrustfilet,9.99,1,Lidl,Fleisch & Geflügel,6
-Lidl_20260207,2026-02-07,Lidl,OldSpice Deo,2.99,1,Lidl,Non-Food,0
-Lidl_20260207,2026-02-07,Lidl,Riffle Chips Paprika,1.49,1,Lidl,Gemüse,9
-Lidl_20260207,2026-02-07,Lidl,Paulaner Hefe-Weißb.,3.27,3,Lidl,Zuckerhaltige Getränke,3
+Lidl_20260205,2026-02-05,Lidl,Banane lose,0.79,0.612 kg,Lidl,Früchte,9
+Lidl_20260205,2026-02-05,Lidl,Bioland Naturjoghurt,3.58,2,Lidl,Milchprodukte,6
+Lidl_20260205,2026-02-05,Lidl,Zwiebeln rot,1.58,2,Lidl,Gemüse,9
 Lidl_20260207,2026-02-07,Lidl,Barilla Girandole,0.99,1,Lidl,Fertiggerichte & Saucen,4
 Lidl_20260207,2026-02-07,Lidl,Barilla Pesto Secchi,1.99,1,Lidl,Fertiggerichte & Saucen,4
+Lidl_20260207,2026-02-07,Lidl,Weizen-Mix Grapefru.,0.49,1,Lidl,Zuckerhaltige Getränke,3
 Lidl_20260207,2026-02-07,Lidl,Vollk. Sandwi. Toast,1.09,1,Lidl,Brot & Getreide,6
+Lidl_20260207,2026-02-07,Lidl,Riffle Chips Paprika,1.49,1,Lidl,Gemüse,9
+Lidl_20260207,2026-02-07,Lidl,OldSpice Deo,2.99,1,Lidl,Non-Food,0
+Lidl_20260207,2026-02-07,Lidl,Hähnchenbrustfilet,9.99,1,Lidl,Fleisch & Geflügel,6
+Lidl_20260207,2026-02-07,Lidl,Paulaner Hefe-Weißb.,3.27,3,Lidl,Zuckerhaltige Getränke,3
 Lidl_20260209,2026-02-09,Lidl,Kartoffeln Süß,1.54,0.858 kg,Lidl,Gemüse,9
-Lidl_20260209,2026-02-09,Lidl,Bio Knoblauch,1.49,1,Lidl,Gemüse,9
 Lidl_20260209,2026-02-09,Lidl,Toilettenpapier 3lg.,3.59,1,Lidl,Non-Food,0
 Lidl_20260209,2026-02-09,Lidl,Einzehenknoblauch,2.29,1,Lidl,Gemüse,9
-HIT_20260210_Receipt 10.02.2026 18_57,2026-02-10,HIT,ja! Miwa Still,1.74,1,Getränke,Wasser,9
-Lidl_20260210,2026-02-10,Lidl,Zuckermais,2.99,1,Lidl,Gemüse,9
-Lidl_20260210,2026-02-10,Lidl,Küchentücher 3-lagig,2.75,1,Lidl,Non-Food,0
+Lidl_20260209,2026-02-09,Lidl,Bio Knoblauch,1.49,1,Lidl,Gemüse,9
 Lidl_20260210,2026-02-10,Lidl,Rein.tücher Meeresfr.,1.49,1,Lidl,Non-Food,0
-HIT_20260210_Receipt 10.02.2026 18_57,2026-02-10,HIT,Datteln Medjoul,3.49,1,OBST & GEMÜSE,Früchte,9
-HIT_20260210_Receipt 10.02.2026 18_57,2026-02-10,HIT,Tomaten Basil.Sa,1.99,1,Lebensmittel,Fertiggerichte & Saucen,4
-HIT_20260210_Receipt 10.02.2026 18_57,2026-02-10,HIT,REWE Bio Cappellett,4.38,2,Lebensmittel,Fertiggerichte & Saucen,4
+Lidl_20260210,2026-02-10,Lidl,Küchentücher 3-lagig,2.75,1,Lidl,Non-Food,0
+Lidl_20260210,2026-02-10,Lidl,Zuckermais,2.99,1,Lidl,Gemüse,9
 HIT_20260210_Receipt 10.02.2026 18_57,2026-02-10,HIT,"Pfand 0,25",1.5,6,Getränke,Non-Food,0
-Lidl_20260212,2026-02-12,Lidl,Wasser still,1.74,6,Lidl,Wasser,9
+HIT_20260210_Receipt 10.02.2026 18_57,2026-02-10,HIT,ja! Miwa Still,1.74,1,Getränke,Wasser,9
+HIT_20260210_Receipt 10.02.2026 18_57,2026-02-10,HIT,REWE Bio Cappellett,4.38,2,Lebensmittel,Fertiggerichte & Saucen,4
+HIT_20260210_Receipt 10.02.2026 18_57,2026-02-10,HIT,Tomaten Basil.Sa,1.99,1,Lebensmittel,Fertiggerichte & Saucen,4
+HIT_20260210_Receipt 10.02.2026 18_57,2026-02-10,HIT,Datteln Medjoul,3.49,1,OBST & GEMÜSE,Früchte,9
 Lidl_20260212,2026-02-12,Lidl,Hot Dog Gef.Lau.,1.98,2,Lidl,Fleisch & Geflügel,6
+Lidl_20260212,2026-02-12,Lidl,Wasser still,1.74,6,Lidl,Wasser,9
 Lidl_20260212,2026-02-12,Lidl,Berliner Herz,0.49,1,Lidl,Süßigkeiten & Desserts,2
-Lidl_20260213,2026-02-13,Lidl,Bio Baby Spinat,1.29,1,Lidl,Gemüse,9
 Lidl_20260213,2026-02-13,Lidl,Kartoffeln Süß,0.89,0.496 kg,Lidl,Gemüse,9
 Lidl_20260213,2026-02-13,Lidl,Tomaten Strauch,3.34,1.460 kg,Lidl,Gemüse,9
-Lidl_20260213,2026-02-13,Lidl,Naturjoghurt mild,0.89,1,Lidl,Milchprodukte,6
 Lidl_20260213,2026-02-13,Lidl,Knotenbeutel,0.04,2,Lidl,Non-Food,0
 Lidl_20260213,2026-02-13,Lidl,Eier 10er Freilandh.,5.98,2,Lidl,Eier,8
+Lidl_20260213,2026-02-13,Lidl,Naturjoghurt mild,0.89,1,Lidl,Milchprodukte,6
+Lidl_20260213,2026-02-13,Lidl,Bio Baby Spinat,1.29,1,Lidl,Gemüse,9
+HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,Mandarinen,2.22,1,OBST & GEMÜSE,Früchte,9
 HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,REWE Bio fr. Weidem,1.35,1,Lebensmittel,Milchprodukte,6
 HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,Gouda´s Glorie Crea,3.39,1,Lebensmittel,Milchprodukte,6
-HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,Saftorangen NZ,2.49,1,OBST & GEMÜSE,Früchte,9
 HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,ja! Erdnüsse XXL ge,1.99,1,Lebensmittel,Hülsenfrüchte & Nüsse,8
-HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,Bio Bananen,2.59,"1,302 kg",OBST & GEMÜSE,Früchte,9
-HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,Erdbeeren Papp,5.91,"0,592 kg",OBST & GEMÜSE,Früchte,9
 HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,ja! Riffelchips,1.39,1,Lebensmittel,Snacks & Chips,3
-HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,Trinkkokosnuss Stüc,17.45,5,OBST & GEMÜSE,Früchte,9
-HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,Mandarinen,2.22,1,OBST & GEMÜSE,Früchte,9
 HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,Berliner m. Mehrfru,2.29,1,Frühstück,Süßigkeiten & Desserts,2
-Lidl_20260217,2026-02-17,Lidl,Banane lose,1.45,1.124 kg,Lidl,Früchte,9
+HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,Trinkkokosnuss Stüc,17.45,5,OBST & GEMÜSE,Früchte,9
+HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,Erdbeeren Papp,5.91,"0,592 kg",OBST & GEMÜSE,Früchte,9
+HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,Bio Bananen,2.59,"1,302 kg",OBST & GEMÜSE,Früchte,9
+HIT_20260214_Receipt 14.02.2026 09_05,2026-02-14,HIT,Saftorangen NZ,2.49,1,OBST & GEMÜSE,Früchte,9
 Lidl_20260217,2026-02-17,Lidl,Möhren 1kg,1.09,1,Lidl,Gemüse,9
 Lidl_20260217,2026-02-17,Lidl,RitterWürfel Dankeschön,2.99,1,Lidl,Süßigkeiten & Desserts,2
+Lidl_20260217,2026-02-17,Lidl,Banane lose,1.45,1.124 kg,Lidl,Früchte,9
 Lidl_20260217,2026-02-17,Lidl,Hanuta Mini Fam.Pack,4.19,1,Lidl,Süßigkeiten & Desserts,2
+Lidl_20260218,2026-02-18,Lidl,Croissant Wien.,1.98,2,Lidl,Süßigkeiten & Desserts,2
 Lidl_20260218,2026-02-18,Lidl,Donut Schoko,0.59,1,Lidl,Süßigkeiten & Desserts,2
 Lidl_20260218,2026-02-18,Lidl,Bio-Eier OKT 10er,3.99,1,Lidl,Eier,8
-Lidl_20260218,2026-02-18,Lidl,Croissant Wien.,1.98,2,Lidl,Süßigkeiten & Desserts,2
-Lidl_20260219,2026-02-19,Lidl,Frikandel,2.58,2,Lidl,Fleisch & Geflügel,6
 Lidl_20260219,2026-02-19,Lidl,Croissant Nuss,1.38,3,Lidl,Süßigkeiten & Desserts,2
+Lidl_20260219,2026-02-19,Lidl,Frikandel,2.58,2,Lidl,Fleisch & Geflügel,6
 HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,ja! Emmentaler g,1.79,1,Lebensmittel,Milchprodukte,6
-HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,Trinkkokosnuss Stüc,17.45,5,OBST & GEMÜSE,Früchte,9
 HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,Tomaten Basil.Sa,1.99,1,Lebensmittel,Fertiggerichte & Saucen,4
 Lidl_20260220,2026-02-20,Lidl,Naturjoghurt mild,0.89,1,Lidl,Milchprodukte,6
 Lidl_20260220,2026-02-20,Lidl,Bioland Naturjoghurt,1.79,1,Lidl,Milchprodukte,6
-HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,Meggle Joghurt B,5.98,2,Lebensmittel,Milchprodukte,6
-Lidl_20260220,2026-02-20,Lidl,Zuckermais,2.99,1,Lidl,Gemüse,9
-HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,"Bärenm.Milch 3,5",3.0,3,Lebensmittel,Milchprodukte,6
 HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,"Pfand 0,25",1.5,6,Getränke,Non-Food,0
-HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,ja! Miwa Still,1.74,1,Getränke,Wasser,9
-HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,Kerry Gold Butte,3.98,2,Lebensmittel,Milchprodukte,6
+Lidl_20260220,2026-02-20,Lidl,Zuckermais,2.99,1,Lidl,Gemüse,9
 Lidl_20260220,2026-02-20,Lidl,Zwiebeln rot,0.99,1,Lidl,Gemüse,9
+HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,Meggle Joghurt B,5.98,2,Lebensmittel,Milchprodukte,6
+HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,Kerry Gold Butte,3.98,2,Lebensmittel,Milchprodukte,6
+HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,"Bärenm.Milch 3,5",3.0,3,Lebensmittel,Milchprodukte,6
 HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,REWE Bio Cappellett,2.19,1,Lebensmittel,Fertiggerichte & Saucen,4
-Lidl_20260223,2026-02-23,Lidl,Banane lose,2.16,1.672 kg,Lidl,Früchte,9
-Lidl_20260223,2026-02-23,Lidl,Snack Gurken,1.69,1,Lidl,Gemüse,9
+HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,Trinkkokosnuss Stüc,17.45,5,OBST & GEMÜSE,Früchte,9
+HIT_20260220_Receipt 20.02.2026 19_43,2026-02-20,HIT,ja! Miwa Still,1.74,1,Getränke,Wasser,9
 Lidl_20260223,2026-02-23,Lidl,Vollk. Sandwi. Toast,1.09,1,Lidl,Brot & Getreide,6
-Lidl_20260223,2026-02-23,Lidl,Gurken,1.29,1,Lidl,Gemüse,9
-Lidl_20260223,2026-02-23,Lidl,Zitronen,1.39,1,Lidl,Früchte,9
 Lidl_20260223,2026-02-23,Lidl,Orangen,5.49,1,Lidl,Früchte,9
+Lidl_20260223,2026-02-23,Lidl,Zitronen,1.39,1,Lidl,Früchte,9
+Lidl_20260223,2026-02-23,Lidl,Snack Gurken,1.69,1,Lidl,Gemüse,9
+Lidl_20260223,2026-02-23,Lidl,Banane lose,2.16,1.672 kg,Lidl,Früchte,9
+Lidl_20260223,2026-02-23,Lidl,Gurken,1.29,1,Lidl,Gemüse,9
 Lidl_20260223,2026-02-23,Lidl,Kartoffeln Süß,3.74,0.938 kg,Lidl,Gemüse,9
-Lidl_20260224,2026-02-24,Lidl,Bunter Strauss Blumen,4.99,1,Lidl,Non-Food,0
-Lidl_20260224,2026-02-24,Lidl,Bioland Naturjoghurt,1.79,1,Lidl,Milchprodukte,6
-Lidl_20260224,2026-02-24,Lidl,Snack-Mandeln,3.49,1,Lidl,Hülsenfrüchte & Nüsse,8
-Lidl_20260224,2026-02-24,Lidl,Bad Reichenh. Salz,0.75,1,Lidl,Fertiggerichte & Saucen,4
-Lidl_20260224,2026-02-24,Lidl,Berliner Mehrfrucht,2.29,1,Lidl,Süßigkeiten & Desserts,2
-Lidl_20260224,2026-02-24,Lidl,Apfel-Quark-Tasche,1.98,2,Lidl,Süßigkeiten & Desserts,2
 Lidl_20260224,2026-02-24,Lidl,Naturjoghurt mild,0.89,1,Lidl,Milchprodukte,6
+Lidl_20260224,2026-02-24,Lidl,Bioland Naturjoghurt,1.79,1,Lidl,Milchprodukte,6
+Lidl_20260224,2026-02-24,Lidl,Bad Reichenh. Salz,0.75,1,Lidl,Fertiggerichte & Saucen,4
+Lidl_20260224,2026-02-24,Lidl,Snack-Mandeln,3.49,1,Lidl,Hülsenfrüchte & Nüsse,8
+Lidl_20260224,2026-02-24,Lidl,Apfel-Quark-Tasche,1.98,2,Lidl,Süßigkeiten & Desserts,2
+Lidl_20260224,2026-02-24,Lidl,Berliner Mehrfrucht,2.29,1,Lidl,Süßigkeiten & Desserts,2
+Lidl_20260224,2026-02-24,Lidl,Bunter Strauss Blumen,4.99,1,Lidl,Non-Food,0
+Lidl_20260225,2026-02-25,Lidl,Naturjoghurt mild,0.89,1,Lidl,Milchprodukte,6
 HIT_20260225_Receipt 25.02.2026 11_29,2026-02-25,HIT,ja! Eismeergarnelen,3.98,2,Lebensmittel,Fisch & Meeresfrüchte,8
 HIT_20260225_Receipt 25.02.2026 11_29,2026-02-25,HIT,ja! Riffelchips,1.39,1,Lebensmittel,Snacks & Chips,3
 HIT_20260225_Receipt 25.02.2026 11_29,2026-02-25,HIT,Trinkkokosnuss Stüc,6.98,2,OBST & GEMÜSE,Früchte,9
-Lidl_20260225,2026-02-25,Lidl,Naturjoghurt mild,0.89,1,Lidl,Milchprodukte,6
-Lidl_20260227,2026-02-27,Lidl,Banane lose,1.36,1.058 kg,Lidl,Früchte,9
-Lidl_20260227,2026-02-27,Lidl,Donut Pinky,0.59,1,Lidl,Süßigkeiten & Desserts,2
-Lidl_20260227,2026-02-27,Lidl,Laugen Brezel,0.99,1,Lidl,Süßigkeiten & Desserts,2
 HIT_20260227_Receipt 27.02.2026 20_18,2026-02-27,HIT,Trinkkokosnuss Stüc,17.45,5,OBST & GEMÜSE,Früchte,9
-HIT_20260227_Receipt 27.02.2026 20_18,2026-02-27,HIT,Datteln ohne Steine,1.49,1,OBST & GEMÜSE,Früchte,9
-HIT_20260227_Receipt 27.02.2026 20_18,2026-02-27,HIT,Datteln Medjoul,3.79,1,OBST & GEMÜSE,Früchte,9
 HIT_20260227_Receipt 27.02.2026 20_18,2026-02-27,HIT,GlückFruchtErdb.,2.49,1,Frühstück,Süßigkeiten & Desserts,2
 HIT_20260227_Receipt 27.02.2026 20_18,2026-02-27,HIT,hella Erdbeere,1.58,2,Getränke,Zuckerhaltige Getränke,3
 HIT_20260227_Receipt 27.02.2026 20_18,2026-02-27,HIT,ja! Miwa Still,1.74,1,Getränke,Wasser,9
-HIT_20260227_Receipt 27.02.2026 20_18,2026-02-27,HIT,Q-Tips Wattestäb,0.99,1,Non-Food,Non-Food,0
 HIT_20260227_Receipt 27.02.2026 20_18,2026-02-27,HIT,"Pfand 0,25",2.0,8,Non-Food,Non-Food,0
-Lidl_20260228,2026-02-28,Lidl,Rein.tücher Meeresfr.,1.49,1,Lidl,Non-Food,0
-Lidl_20260228,2026-02-28,Lidl,Tomaten Strauch,3.49,1.460 kg,Lidl,Gemüse,9
-Lidl_20260228,2026-02-28,Lidl,Birnen rot lose,1.78,0.594 kg,Lidl,Früchte,9
-Lidl_20260228,2026-02-28,Lidl,Avocado,3.69,1,Lidl,Früchte,9
-Lidl_20260228,2026-02-28,Lidl,Dattelcherrytomaten,2.19,1,Lidl,Gemüse,9
-Lidl_20260228,2026-02-28,Lidl,Broccoli,0.95,1,Lidl,Gemüse,9
+HIT_20260227_Receipt 27.02.2026 20_18,2026-02-27,HIT,Datteln Medjoul,3.79,1,OBST & GEMÜSE,Früchte,9
+Lidl_20260227,2026-02-27,Lidl,Banane lose,1.36,1.058 kg,Lidl,Früchte,9
+Lidl_20260227,2026-02-27,Lidl,Donut Pinky,0.59,1,Lidl,Süßigkeiten & Desserts,2
+HIT_20260227_Receipt 27.02.2026 20_18,2026-02-27,HIT,Q-Tips Wattestäb,0.99,1,Non-Food,Non-Food,0
+HIT_20260227_Receipt 27.02.2026 20_18,2026-02-27,HIT,Datteln ohne Steine,1.49,1,OBST & GEMÜSE,Früchte,9
+Lidl_20260227,2026-02-27,Lidl,Laugen Brezel,0.99,1,Lidl,Süßigkeiten & Desserts,2
 Lidl_20260228,2026-02-28,Lidl,White Tiger Garnelen,4.29,1,Lidl,Fisch & Meeresfrüchte,8
 Lidl_20260228,2026-02-28,Lidl,Knotenbeutel,0.04,2,Lidl,Non-Food,0
-HIT_20260228_Receipt 28.02.2026 19_37,2026-02-28,HIT,JA! 12X28 ML MIN,3.98,2,Tiefkühlkost,Süßigkeiten & Desserts,2
-HIT_20260228_Receipt 28.02.2026 19_37,2026-02-28,HIT,ja! Eiscreme Für,3.49,1,Tiefkühlkost,Süßigkeiten & Desserts,2
-HIT_20260228_Receipt 28.02.2026 19_37,2026-02-28,HIT,Meggle Joghurt B,5.98,2,Lebensmittel,Milchprodukte,6
+Lidl_20260228,2026-02-28,Lidl,Rein.tücher Meeresfr.,1.49,1,Lidl,Non-Food,0
+Lidl_20260228,2026-02-28,Lidl,Broccoli,0.95,1,Lidl,Gemüse,9
 HIT_20260228_Receipt 28.02.2026 19_37,2026-02-28,HIT,REWE Bio fr. Weidem,1.35,1,Lebensmittel,Milchprodukte,6
+Lidl_20260228,2026-02-28,Lidl,Tomaten Strauch,3.49,1.460 kg,Lidl,Gemüse,9
+HIT_20260228_Receipt 28.02.2026 19_37,2026-02-28,HIT,ja! Eiscreme Für,3.49,1,Tiefkühlkost,Süßigkeiten & Desserts,2
+HIT_20260228_Receipt 28.02.2026 19_37,2026-02-28,HIT,JA! 12X28 ML MIN,3.98,2,Tiefkühlkost,Süßigkeiten & Desserts,2
 HIT_20260228_Receipt 28.02.2026 19_37,2026-02-28,HIT,Pril Spülm. Kraftge,1.75,1,Non-Food,Non-Food,0
+Lidl_20260228,2026-02-28,Lidl,Avocado,3.69,1,Lidl,Früchte,9
+Lidl_20260228,2026-02-28,Lidl,Birnen rot lose,1.78,0.594 kg,Lidl,Früchte,9
+HIT_20260228_Receipt 28.02.2026 19_37,2026-02-28,HIT,Meggle Joghurt B,5.98,2,Lebensmittel,Milchprodukte,6
+Lidl_20260228,2026-02-28,Lidl,Dattelcherrytomaten,2.19,1,Lidl,Gemüse,9
+Lidl_20260302,2026-03-02,Lidl,Kartoffeln Süß,0.95,0.564 kg,Lidl,Gemüse,9
+Lidl_20260302,2026-03-02,Lidl,Cashewkerne 200g,2.99,1,Lidl,Hülsenfrüchte & Nüsse,8
 Lidl_20260302,2026-03-02,Lidl,Toilettenpapier 3lg.,3.59,1,Lidl,Non-Food,0
 Lidl_20260302,2026-03-02,Lidl,Küchentücher 3-lagig,2.75,1,Lidl,Non-Food,0
-Lidl_20260302,2026-03-02,Lidl,Cashewkerne 200g,2.99,1,Lidl,Hülsenfrüchte & Nüsse,8
-Lidl_20260302,2026-03-02,Lidl,Kartoffeln Süß,0.95,0.564 kg,Lidl,Gemüse,9
-Lidl_20260303,2026-03-03,Lidl,Bärenmarke H-Milch 3.8%,1.9,2,Lidl,Milchprodukte,6
 Lidl_20260303,2026-03-03,Lidl,Knotenbeutel,0.02,1,Lidl,Non-Food,0
-Lidl_20260303,2026-03-03,Lidl,Bio Mini Möhren 200g,0.99,1,Lidl,Gemüse,9
-Lidl_20260303,2026-03-03,Lidl,Bioland Rote Bete,1.99,1,Lidl,Gemüse,9
 Lidl_20260303,2026-03-03,Lidl,Ingwer Bio,1.5,0.306 kg,Lidl,Gemüse,9
 Lidl_20260303,2026-03-03,Lidl,Bio Baby Spinat,1.29,1,Lidl,Gemüse,9
-Lidl_20260304,2026-03-04,Lidl,Banane lose,1.09,0.844 kg,Lidl,Früchte,9
-Lidl_20260304,2026-03-04,Lidl,Zuckermais,2.99,1,Lidl,Gemüse,9
-Lidl_20260304,2026-03-04,Lidl,Bioland Naturjoghurt,3.58,2,Lidl,Milchprodukte,6
+Lidl_20260303,2026-03-03,Lidl,Bärenmarke H-Milch 3.8%,1.9,2,Lidl,Milchprodukte,6
+Lidl_20260303,2026-03-03,Lidl,Bio Mini Möhren 200g,0.99,1,Lidl,Gemüse,9
+Lidl_20260303,2026-03-03,Lidl,Bioland Rote Bete,1.99,1,Lidl,Gemüse,9
 Lidl_20260304,2026-03-04,Lidl,Sonnenblumenöl raff.,4.38,2,Lidl,Fertiggerichte & Saucen,4
-Lidl_20260304,2026-03-04,Lidl,Fr.Eier a. Bodenhal.,2.49,1,Lidl,Eier,8
-Lidl_20260304_1,2026-03-04,Lidl,Langnese Mandel Whirl,5.49,1,Lidl,Süßigkeiten & Desserts,2
 Lidl_20260304,2026-03-04,Lidl,Naturjoghurt mild,0.89,1,Lidl,Milchprodukte,6
-Lidl_20260305,2026-03-05,Lidl,Bio Limetten,1.99,1,Lidl,Gemüse,9
-Lidl_20260305,2026-03-05,Lidl,Bio Mini Möhren 200g,0.99,1,Lidl,Gemüse,9
-Lidl_20260305,2026-03-05,Lidl,Erdbeeren 400g,3.99,1,Lidl,Früchte,9
-Lidl_20260305,2026-03-05,Lidl,Bauerngurken,2.99,1,Lidl,Gemüse,9
-Lidl_20260305,2026-03-05,Lidl,Bio Zitronen,1.49,1,Lidl,Früchte,9
+Lidl_20260304,2026-03-04,Lidl,Zuckermais,2.99,1,Lidl,Gemüse,9
+Lidl_20260304,2026-03-04,Lidl,Banane lose,1.09,0.844 kg,Lidl,Früchte,9
+Lidl_20260304_1,2026-03-04,Lidl,Langnese Mandel Whirl,5.49,1,Lidl,Süßigkeiten & Desserts,2
+Lidl_20260304,2026-03-04,Lidl,Fr.Eier a. Bodenhal.,2.49,1,Lidl,Eier,8
+Lidl_20260304,2026-03-04,Lidl,Bioland Naturjoghurt,3.58,2,Lidl,Milchprodukte,6
 Lidl_20260305,2026-03-05,Lidl,Pfeffer schwarz,1.19,1,Lidl,Fertiggerichte & Saucen,4
 Lidl_20260305,2026-03-05,Lidl,Knotenbeutel,1.24,62,Lidl,Non-Food,0
 Lidl_20260305_1,2026-03-05,Lidl,Marillenspitz,0.99,1,Lidl,Süßigkeiten & Desserts,2
-Lidl_20260305_1,2026-03-05,Lidl,Frikandel,2.58,2,Lidl,Fleisch & Geflügel,6
-Lidl_20260305_1,2026-03-05,Lidl,Donut Schoko,0.59,1,Lidl,Süßigkeiten & Desserts,2
-HIT_20260305_Receipt 05.03.2026 20_12,2026-03-05,HIT,ja! Miwa Still,1.74,1,Getränke,Wasser,9
+Lidl_20260305,2026-03-05,Lidl,Bio Zitronen,1.49,1,Lidl,Früchte,9
 HIT_20260305_Receipt 05.03.2026 20_12,2026-03-05,HIT,"Pfand 0,25",3.0,12,Getränke,Non-Food,0
+Lidl_20260305,2026-03-05,Lidl,Bauerngurken,2.99,1,Lidl,Gemüse,9
 HIT_20260305_Receipt 05.03.2026 20_12,2026-03-05,HIT,REWE Miwa Still,2.34,1,Getränke,Wasser,9
-Lidl_20260306,2026-03-06,Lidl,Möhren,1.59,1,Lidl,Gemüse,9
-Lidl_20260306,2026-03-06,Lidl,Romatomaten,1.29,1,Lidl,Gemüse,9
-Lidl_20260306,2026-03-06,Lidl,Mozzarella,0.85,1,Lidl,Milchprodukte,6
+Lidl_20260305,2026-03-05,Lidl,Erdbeeren 400g,3.99,1,Lidl,Früchte,9
+Lidl_20260305_1,2026-03-05,Lidl,Donut Schoko,0.59,1,Lidl,Süßigkeiten & Desserts,2
+Lidl_20260305,2026-03-05,Lidl,Bio Limetten,1.99,1,Lidl,Gemüse,9
+Lidl_20260305,2026-03-05,Lidl,Bio Mini Möhren 200g,0.99,1,Lidl,Gemüse,9
+Lidl_20260305_1,2026-03-05,Lidl,Frikandel,2.58,2,Lidl,Fleisch & Geflügel,6
+HIT_20260305_Receipt 05.03.2026 20_12,2026-03-05,HIT,ja! Miwa Still,1.74,1,Getränke,Wasser,9
 Lidl_20260306,2026-03-06,Lidl,Bio-Eier OKT 10er,7.98,2,Lidl,Eier,8
+Lidl_20260306,2026-03-06,Lidl,Mozzarella,0.85,1,Lidl,Milchprodukte,6
+Lidl_20260306,2026-03-06,Lidl,Romatomaten,1.29,1,Lidl,Gemüse,9
+Lidl_20260306,2026-03-06,Lidl,Möhren,1.59,1,Lidl,Gemüse,9
 Lidl_20260307,2026-03-07,Lidl,Ananas,2.32,1.560 kg,Lidl,Früchte,9
 Lidl_20260307,2026-03-07,Lidl,Banane lose,1.13,1.094 kg,Lidl,Früchte,9
-Lidl_20260307,2026-03-07,Lidl,Mandarinen/Clau.,3.29,1,Lidl,Früchte,9
 Lidl_20260307,2026-03-07,Lidl,Orangen,5.59,1,Lidl,Früchte,9
+Lidl_20260307,2026-03-07,Lidl,Mandarinen/Clau.,3.29,1,Lidl,Früchte,9
+Lidl_20260307,2026-03-07,Lidl,Mascarpone OGT,3.58,2,Lidl,Milchprodukte,6
+Lidl_20260307,2026-03-07,Lidl,Mineralwasser still,1.35,1,Lidl,Wasser,9
 Lidl_20260307,2026-03-07,Lidl,Riffle Chips Salz,1.39,1,Lidl,Snacks & Chips,3
 Lidl_20260307,2026-03-07,Lidl,Vollk. Sandwi. Toast,1.09,1,Lidl,Brot & Getreide,6
 Lidl_20260307,2026-03-07,Lidl,Allzwecktücher,4.99,1,Lidl,Non-Food,0
 Lidl_20260307,2026-03-07,Lidl,Knotenbeutel,0.02,1,Lidl,Non-Food,0
 Lidl_20260307,2026-03-07,Lidl,Hähnchenbrustfilet,9.99,1,Lidl,Fleisch & Geflügel,6
-Lidl_20260307,2026-03-07,Lidl,Mineralwasser still,1.35,1,Lidl,Wasser,9
-Lidl_20260307,2026-03-07,Lidl,Mascarpone OGT,3.58,2,Lidl,Milchprodukte,6
 Lidl_20260309,2026-03-09,Lidl,Bio Mini Möhren 200g,0.99,1,Lidl,Gemüse,9
 Lidl_20260309,2026-03-09,Lidl,Bioland Naturjoghurt,1.79,1,Lidl,Milchprodukte,6
-Restaurant_20260310,2026-03-10,Restaurant,Lunch Deal (Cheese Love's Pan S),12.9,1,Pizza Hut,Restaurant,5
-Lidl_20260310,2026-03-10,Lidl,Spargel grün,5.99,1,Lidl,Gemüse,9
-Restaurant_20260310,2026-03-10,Restaurant,Pepsi 0.3L,0.0,1,Pizza Hut,Zuckerhaltige Getränke,3
 Restaurant_20260310,2026-03-10,Restaurant,"Lunch Deal (CYO Pan S — Ananas, Paprika-Mix)",12.9,1,Pizza Hut,Restaurant,5
+Restaurant_20260310,2026-03-10,Restaurant,Pepsi 0.3L,0.0,1,Pizza Hut,Zuckerhaltige Getränke,3
+Lidl_20260310,2026-03-10,Lidl,Spargel grün,5.99,1,Lidl,Gemüse,9
+Restaurant_20260310,2026-03-10,Restaurant,Lunch Deal (Cheese Love's Pan S),12.9,1,Pizza Hut,Restaurant,5
+Lidl_20260311,2026-03-11,Lidl,Naturjoghurt mild,1.78,2,Lidl,Milchprodukte,6
 Lidl_20260311,2026-03-11,Lidl,Lachsfilet,5.99,1,Lidl,Fisch & Meeresfrüchte,8
 Lidl_20260311,2026-03-11,Lidl,Müllbeutel,0.99,1,Lidl,Non-Food,0
 Lidl_20260311,2026-03-11,Lidl,Walnusskerne XXL,5.99,1,Lidl,Hülsenfrüchte & Nüsse,8
-Lidl_20260311,2026-03-11,Lidl,Naturjoghurt mild,1.78,2,Lidl,Milchprodukte,6
-Lidl_20260311,2026-03-11,Lidl,Bio Knoblauch,2.98,2,Lidl,Gemüse,9
 Lidl_20260311,2026-03-11,Lidl,Kartoffeln Süß,1.65,0.752 kg,Lidl,Gemüse,9
+Lidl_20260311,2026-03-11,Lidl,Bio Knoblauch,2.98,2,Lidl,Gemüse,9
 Lidl_20260312,2026-03-12,Lidl,Hot Dog Gef.Lau.,1.98,2,Lidl,Fleisch & Geflügel,6
 Lidl_20260312,2026-03-12,Lidl,Donut Pinky,0.59,1,Lidl,Süßigkeiten & Desserts,2
 HIT_20260312_Receipt 12.03.2026 08_13,2026-03-12,HIT,Bio Bananen,1.74,"0,974 kg",OBST & GEMÜSE,Früchte,9
-HIT_20260314_Receipt 14.03.2026 18_13,2026-03-14,HIT,Clementinen/Mand,1.48,"0,494 kg",OBST & GEMÜSE,Früchte,9
 HIT_20260314_Receipt 14.03.2026 18_13,2026-03-14,HIT,"Pfand 0,25",0.75,3,Getränke,Non-Food,0
 HIT_20260314_Receipt 14.03.2026 18_13,2026-03-14,HIT,Carlsb.Elephant,4.17,3,Getränke,Sonstiges,5
 HIT_20260314_Receipt 14.03.2026 18_13,2026-03-14,HIT,Mc Vities Tartlets,3.38,2,Lebensmittel,Sonstiges,5
 HIT_20260314_Receipt 14.03.2026 18_13,2026-03-14,HIT,REWE Cookies Triple,1.89,1,Lebensmittel,Sonstiges,5
 HIT_20260314_Receipt 14.03.2026 18_13,2026-03-14,HIT,Mandarinen,2.99,1,OBST & GEMÜSE,Früchte,9
+HIT_20260314_Receipt 14.03.2026 18_13,2026-03-14,HIT,Clementinen/Mand,1.48,"0,494 kg",OBST & GEMÜSE,Früchte,9
+Lidl_20260316,2026-03-16,Lidl,Bauerngurken,2.6300000000000003,1,Lidl,Gemüse,9
 Lidl_20260316,2026-03-16,Lidl,Avocado,3.33,1,Lidl,Früchte,9
 Lidl_20260316,2026-03-16,Lidl,Banane lose,1.17,0.908 kg,Lidl,Früchte,9
-Lidl_20260316,2026-03-16,Lidl,Bauerngurken,2.6300000000000003,1,Lidl,Gemüse,9
-Lidl_20260318,2026-03-18,Lidl,"Knotenbeutel0&G 0,02 x 2",0.0,1,Lidl,Non-Food,0
-Lidl_20260318,2026-03-18,Lidl,Vollk. Sandwi. Toast,1.09,1,Lidl,Brot & Getreide,6
-Lidl_20260318,2026-03-18,Lidl,"Joghurt mild 3,5% 0,89 x 3",2.67,1,Lidl,Milchprodukte,6
-Lidl_20260318,2026-03-18,Lidl,Eier Bodenhalt. 18er,4.19,1,Lidl,Eier,8
-Lidl_20260318,2026-03-18,Lidl,Bio Eier 10+2 Stk.,3.99,1,Lidl,Eier,8
-Lidl_20260318,2026-03-18,Lidl,"Biol. Fri.Milch 3,8%",1.35,1,Lidl,Milchprodukte,6
-HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,Cornetto MAX,4.49,1,Tiefkühlkost,Sonstiges,5
-Lidl_20260318,2026-03-18,Lidl,Bio Strauchtomaten,1.99,1,Lidl,Gemüse,9
-Lidl_20260318,2026-03-18,Lidl,Banane lose,1.14,0.882 kg,Lidl,Früchte,9
-Lidl_20260318,2026-03-18,Lidl,Kartoffeln Süß,2.58,0.646 kg,Lidl,Gemüse,9
 HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,"Kart. vfk.2,5kg",1.99,1,OBST & GEMÜSE,Gemüse,9
-HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,Spargel grün,3.99,1,OBST & GEMÜSE,Gemüse,9
-HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,Trinkkokosnuss Stüc,10.47,3,OBST & GEMÜSE,Früchte,9
-HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,ja! Kokosraspel,1.45,1,Lebensmittel,Sonstiges,5
-HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,REWE Bio fr.Weidemi,1.25,1,Lebensmittel,Milchprodukte,6
-HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,REWE Bio fr. Weidem,2.7,2,Lebensmittel,Milchprodukte,6
+Lidl_20260318,2026-03-18,Lidl,Kartoffeln Süß,2.58,0.646 kg,Lidl,Gemüse,9
+Lidl_20260318,2026-03-18,Lidl,Bio Strauchtomaten,1.99,1,Lidl,Gemüse,9
 Lidl_20260318,2026-03-18,Lidl,Erdbeeren 400g,3.99,1,Lidl,Früchte,9
+Lidl_20260318,2026-03-18,Lidl,"Biol. Fri.Milch 3,8%",1.35,1,Lidl,Milchprodukte,6
+Lidl_20260318,2026-03-18,Lidl,"Joghurt mild 3,5% 0,89 x 3",2.67,1,Lidl,Milchprodukte,6
+Lidl_20260318,2026-03-18,Lidl,Bio Eier 10+2 Stk.,3.99,1,Lidl,Eier,8
+Lidl_20260318,2026-03-18,Lidl,Eier Bodenhalt. 18er,4.19,1,Lidl,Eier,8
+Lidl_20260318,2026-03-18,Lidl,Vollk. Sandwi. Toast,1.09,1,Lidl,Brot & Getreide,6
+Lidl_20260318,2026-03-18,Lidl,"Knotenbeutel0&G 0,02 x 2",0.0,1,Lidl,Non-Food,0
+Lidl_20260318,2026-03-18,Lidl,Banane lose,1.14,0.882 kg,Lidl,Früchte,9
+HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,Trinkkokosnuss Stüc,10.47,3,OBST & GEMÜSE,Früchte,9
+HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,Spargel grün,3.99,1,OBST & GEMÜSE,Gemüse,9
+HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,REWE Bio fr.Weidemi,1.25,1,Lebensmittel,Milchprodukte,6
 HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,"Naturjogh. 3,5%",1.99,1,Lebensmittel,Sonstiges,5
-Lidl_20260319,2026-03-19,Lidl,Saisonstrauß rosa,3.99,1,Lidl,Sonstiges,5
-Lidl_20260319,2026-03-19,Lidl,"Paprika Mix,süß",2.69,1,Lidl,Gemüse,9
-Lidl_20260319,2026-03-19,Lidl,Saisonstrauß orange,0.0,1,Lidl,Früchte,9
+HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,REWE Bio fr. Weidem,2.7,2,Lebensmittel,Milchprodukte,6
+HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,Cornetto MAX,4.49,1,Tiefkühlkost,Sonstiges,5
+HIT_20260318_Receipt 18.03.2026 20_00,2026-03-18,HIT,ja! Kokosraspel,1.45,1,Lebensmittel,Sonstiges,5
+Lidl_20260319,2026-03-19,Lidl,"Gurken 0,69 x 2",1.38,1,Lidl,Gemüse,9
 Lidl_20260319,2026-03-19,Lidl,"Bio Baby Spinat 1,19x 2",2.38,1,Lidl,Gemüse,9
+Lidl_20260319,2026-03-19,Lidl,"Paprika Mix,süß",2.69,1,Lidl,Gemüse,9
+Lidl_20260319,2026-03-19,Lidl,Saisonstrauß rosa,3.99,1,Lidl,Sonstiges,5
 Lidl_20260319,2026-03-19,Lidl,"Datteln,Medjoul",11.99,1,Lidl,Früchte,9
 Lidl_20260319,2026-03-19,Lidl,Tomaten Strauch,3.69,1.544 kg,Lidl,Gemüse,9
-Lidl_20260319,2026-03-19,Lidl,"Gurken 0,69 x 2",1.38,1,Lidl,Gemüse,9
-Restaurant_20260324,2026-03-24,Restaurant,Restaurant meal (veggies brilik march26),20.0,1,veggies brilik march26,Restaurant,5
+Lidl_20260319,2026-03-19,Lidl,Saisonstrauß orange,0.0,1,Lidl,Früchte,9
+Lidl_20260324,2026-03-24,Lidl,"Knotenbeutel0&G 0,02 x 3",0.0,1,Lidl,Non-Food,0
+Lidl_20260324,2026-03-24,Lidl,Knoblauch,0.89,1,Lidl,Gemüse,9
+Lidl_20260324,2026-03-24,Lidl,Zuckermais,2.49,1,Lidl,Gemüse,9
+Lidl_20260324,2026-03-24,Lidl,Banane lose,0.82,0.638 kg,Lidl,Früchte,9
+Lidl_20260324,2026-03-24,Lidl,Kartoffeln Süß,1.59,0.726 kg,Lidl,Gemüse,9
+Lidl_20260324,2026-03-24,Lidl,Ingwer Bio,1.83,0.374 kg,Lidl,Gemüse,9
+HIT_20260325_Receipt 25.03.2026 20_59,2026-03-25,HIT,ja! Riffelchips,1.39,1,Lebensmittel,Snacks & Chips,3
+HIT_20260325_Receipt 25.03.2026 20_59,2026-03-25,HIT,"Pfand 0,25",1.25,5,Getränke,Non-Food,0
+HIT_20260325_Receipt 25.03.2026 20_59,2026-03-25,HIT,SP Limone eMenta,1.19,1,Getränke,Sonstiges,5
+HIT_20260325_Receipt 25.03.2026 20_59,2026-03-25,HIT,Coca Cola Cherry,0.99,1,Getränke,Zuckerhaltige Getränke,3
+HIT_20260325_Receipt 25.03.2026 20_59,2026-03-25,HIT,Chiquita Bananen,1.29,"0,518 kg",OBST & GEMÜSE,Früchte,9
+HIT_20260325_Receipt 25.03.2026 20_59,2026-03-25,HIT,ja! Miwa + Co2,0.3,2,Getränke,Wasser,9
+HIT_20260325_Receipt 25.03.2026 20_59,2026-03-25,HIT,Mc VD Dark Choco,3.49,1,Lebensmittel,Sonstiges,5
+HIT_20260325_Receipt 25.03.2026 20_59,2026-03-25,HIT,Walkers Chocolat,1.79,1,Lebensmittel,Zuckerhaltige Getränke,3
+HIT_20260325_Receipt 25.03.2026 20_59,2026-03-25,HIT,Limetten,1.69,1,OBST & GEMÜSE,Gemüse,9
+HIT_20260325_Receipt 25.03.2026 20_59,2026-03-25,HIT,Coca-Cola Light,0.99,1,Getränke,Zuckerhaltige Getränke,3
+HIT_20260330_Receipt 30.03.2026 18_29,2026-03-30,HIT,Volvic PET-EW,4.44,1,Getränke,Sonstiges,5
+HIT_20260330_Receipt 30.03.2026 18_29,2026-03-30,HIT,Trinkkokosnuss Stüc,10.47,3,OBST & GEMÜSE,Früchte,9
+HIT_20260330_Receipt 30.03.2026 18_29,2026-03-30,HIT,Saftorangen NZ,3.49,1,OBST & GEMÜSE,Früchte,9
+HIT_20260330_Receipt 30.03.2026 18_29,2026-03-30,HIT,Mini Romarispent,3.49,1,OBST & GEMÜSE,Früchte,9
+Lidl_20260330,2026-03-30,Lidl,"Börek Stange 0,75x 2",1.5,1,Lidl,Sonstiges,5
+Lidl_20260330,2026-03-30,Lidl,Croissant Butt.,0.0,1,Lidl,Süßigkeiten & Desserts,2
+HIT_20260330_Receipt 30.03.2026 18_29,2026-03-30,HIT,"Pfand 0,25",1.5,6,Getränke,Non-Food,0
+Lidl_20260330,2026-03-30,Lidl,Zuckermais,2.49,1,Lidl,Gemüse,9
+Lidl_20260330,2026-03-30,Lidl,Zwiebeln gelb,1.59,1,Lidl,Gemüse,9
+Lidl_20260331,2026-03-31,Lidl,Banane lose,1.26,0.978 kg,Lidl,Früchte,9
+Lidl_20260402,2026-04-02,Lidl,Hähn.-Oberkeule,4.21,1,Lidl,Sonstiges,5
+Lidl_20260402,2026-04-02,Lidl,Hähnchen-Brustfilet,6.79,1,Lidl,Fleisch & Geflügel,6
+Lidl_20260402,2026-04-02,Lidl,White Tiger Garnelen,4.29,1,Lidl,Fisch & Meeresfrüchte,8
+Lidl_20260402,2026-04-02,Lidl,Melone Galia,3.35,1.346 kg,Lidl,Früchte,9
+Lidl_20260402,2026-04-02,Lidl,Bio Baby Spinat,1.1099999999999999,1,Lidl,Gemüse,9
+Lidl_20260402,2026-04-02,Lidl,"Naturjoghurt mild 0,89 x 2",1.78,1,Lidl,Milchprodukte,6
+Lidl_20260402,2026-04-02,Lidl,"Biol. Fri.Milch 3,8% 1,35 x 2",2.7,1,Lidl,Milchprodukte,6
+Lidl_20260402,2026-04-02,Lidl,Bad Reichenh. Salz,0.75,1,Lidl,Fertiggerichte & Saucen,4
+Lidl_20260402,2026-04-02,Lidl,Eier Bodenhalt. 18er,4.19,1,Lidl,Eier,8
+Lidl_20260402,2026-04-02,Lidl,Bio-Eier OKT 10er,3.99,1,Lidl,Eier,8
+Lidl_20260402,2026-04-02,Lidl,Barilla Penne Rigate,0.75,1,Lidl,Fertiggerichte & Saucen,4
+Lidl_20260402,2026-04-02,Lidl,Snack-Mandeln,2.99,1,Lidl,Hülsenfrüchte & Nüsse,8
+Lidl_20260402,2026-04-02,Lidl,Banane lose,1.3,1.006 kg,Lidl,Früchte,9
+Lidl_20260402,2026-04-02,Lidl,Tomate kg,3.23,1.080 kg,Lidl,Gemüse,9
+HIT_20260402_Receipt 02.04.2026 18_58,2026-04-02,HIT,Oreo Mini Cones,2.49,1,Tiefkühlkost,Süßigkeiten & Desserts,2
+HIT_20260402_Receipt 02.04.2026 18_58,2026-04-02,HIT,ja! Eiscreme Für,3.29,1,Tiefkühlkost,Süßigkeiten & Desserts,2
+Lidl_20260408,2026-04-08,Lidl,Melone Honig,2.02,1.196 kg,Lidl,Früchte,9
+Lidl_20260408,2026-04-08,Lidl,Tomaten Strauch,4.1,1.372 kg,Lidl,Gemüse,9
+Lidl_20260408,2026-04-08,Lidl,"Knotenbeutel0&G 0,02 x 2",0.0,1,Lidl,Non-Food,0
+Lidl_20260408,2026-04-08,Lidl,Kinderzahnbürste,0.75,1,Lidl,Non-Food,0
+Lidl_20260408,2026-04-08,Lidl,Drano Power-Gel,3.75,1,Lidl,Sonstiges,5
+Lidl_20260408,2026-04-08,Lidl,Walnusskerne XXL,5.99,1,Lidl,Hülsenfrüchte & Nüsse,8
+Lidl_20260408,2026-04-08,Lidl,Hands. Pfeffer,2.39,1,Lidl,Fertiggerichte & Saucen,4
+Lidl_20260408,2026-04-08,Lidl,Bio Blütenhonig flüs,2.49,1,Lidl,Fertiggerichte & Saucen,4
+Lidl_20260408,2026-04-08,Lidl,Sonnenblumenö6l raff.,2.19,1,Lidl,Non-Food,0
+Lidl_20260408,2026-04-08,Lidl,"Naturjoghurt mild 0,89 x 2",1.78,1,Lidl,Milchprodukte,6
+Lidl_20260408,2026-04-08,Lidl,Mango,1.49,1,Lidl,Früchte,9
+Lidl_20260408,2026-04-08,Lidl,Banane lose,1.68,1.302 kg,Lidl,Früchte,9
+Lidl_20260408,2026-04-08,Lidl,Sonnenblumenöl,1.35,1,Lidl,Fertiggerichte & Saucen,4
+Lidl_20260409,2026-04-09,Lidl,Dattelcherrytomaten,2.49,1,Lidl,Gemüse,9
+Lidl_20260409,2026-04-09,Lidl,Bio-Eier OKT 10er,3.6300000000000003,1,Lidl,Eier,8
+Lidl_20260409,2026-04-09,Lidl,Erdbeeren,0.9900000000000001,1,Lidl,Früchte,9
+HIT_20260420_Receipt 20.04.2026 18_33,2026-04-20,HIT,ja! Mozzarella g,1.79,1,Lebensmittel,Milchprodukte,6
+HIT_20260420_Receipt 20.04.2026 18_33,2026-04-20,HIT,NONG SHIM Instan,3.98,2,Lebensmittel,Sonstiges,5
+Lidl_20260420,2026-04-20,Lidl,Kartoffeln Süß,1.74,0.758 kg,Lidl,Gemüse,9
+Lidl_20260420,2026-04-20,Lidl,All-in-1 MGR Tabs,5.55,1,Lidl,Non-Food,0
+Lidl_20260420,2026-04-20,Lidl,Einzehenknoblauch,2.29,1,Lidl,Gemüse,9
+Lidl_20260420,2026-04-20,Lidl,Knoblauch,0.99,1,Lidl,Gemüse,9
+Lidl_20260420,2026-04-20,Lidl,Erdbeeren,1.79,1,Lidl,Früchte,9
+Lidl_20260420,2026-04-20,Lidl,Bauerngurken,2.99,1,Lidl,Gemüse,9
+Lidl_20260420,2026-04-20,Lidl,"Biol. Fri.Milch 3,8%",1.35,1,Lidl,Milchprodukte,6
+Lidl_20260420,2026-04-20,Lidl,"Mineralwasser still 0,29 x 6",1.74,1,Lidl,Wasser,9
+Lidl_20260420,2026-04-20,Lidl,"Min.wasser Kohlensä. 0,15 x 2",0.3,1,Lidl,Gemüse,9
+Lidl_20260420,2026-04-20,Lidl,"Snack-Mandeln 2,99 x 2",5.98,1,Lidl,Hülsenfrüchte & Nüsse,8
+HIT_20260420_Receipt 20.04.2026 18_33,2026-04-20,HIT,REWE Oregano ger,1.99,1,Lebensmittel,Sonstiges,5
+Lidl_20260420,2026-04-20,Lidl,Dr. BeckmannWaschm.R,2.31,1,Lidl,Sonstiges,5
+Lidl_20260424,2026-04-24,Lidl,Kartoffeln Süß,1.27,0.582 kg,Lidl,Gemüse,9
+Lidl_20260424,2026-04-24,Lidl,Gurken,0.55,1,Lidl,Gemüse,9
+Lidl_20260424,2026-04-24,Lidl,Erdbeeren,1.79,1,Lidl,Früchte,9
+Lidl_20260424,2026-04-24,Lidl,Haferflocken kernig,0.69,1,Lidl,Brot & Getreide,6
+Lidl_20260429,2026-04-29,Lidl,Bio Sonnenblumenöl,1.25,1,Lidl,Fertiggerichte & Saucen,4
+Lidl_20260429,2026-04-29,Lidl,Ingwer Bio,1.01,0.206 kg,Lidl,Gemüse,9
+Lidl_20260429,2026-04-29,Lidl,Kartoffeln Süß,0.77,0.386 kg,Lidl,Gemüse,9
+Lidl_20260429,2026-04-29,Lidl,Knoblauch,0.99,1,Lidl,Gemüse,9
+Lidl_20260429,2026-04-29,Lidl,Zitronen,1.49,1,Lidl,Früchte,9
+Lidl_20260429,2026-04-29,Lidl,"Kerrygold Ir. Butter 1,99 x 2",3.98,1,Lidl,Milchprodukte,6
+Lidl_20260430,2026-04-30,Lidl,Melone Wasser,6.48,4.352 kg,Lidl,Früchte,9
+Lidl_20260430,2026-04-30,Lidl,Perm. Tragetasc,0.99,1,Lidl,Sonstiges,5
+Lidl_20260430,2026-04-30,Lidl,Elmex/Aronal Duopack,5.99,1,Lidl,Non-Food,0
+Lidl_20260430,2026-04-30,Lidl,Hähnchen-Mini Steaks,7.699999999999998,1,Lidl,Fleisch & Geflügel,6
+Lidl_20260430,2026-04-30,Lidl,Zuckermais,1.99,1,Lidl,Gemüse,9
+Restaurant_20260502,2026-05-02,Restaurant,Restaurant meal (veggies brilik march26),20.0,1,veggies brilik march26,Restaurant,5
